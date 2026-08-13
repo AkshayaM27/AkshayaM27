@@ -42,53 +42,7 @@ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
 
-03 / selected work
 
-AutoCarePro
-
-A vehicle service management application built with Java, JSP, Servlets, JDBC and Oracle.
-
-Java · JSP · Servlets · JDBC · Oracle
-
-AI-Powered Data Cleaning Assistant
-
-A Python project for detecting common data-quality issues before a dataset is used for analysis or modelling.
-
-Currently focused on:
-
-missing values · duplicates · outliers · data types · data consistency
-
-Python · Pandas · Data Processing · AI
-
-04 / current quest
-
-AI / Machine Learning
-
-Currently exploring:
-
-Machine learning fundamentals
-
-Python for data and automation
-
-Data cleaning and preprocessing
-
-AI-powered applications
-
-AI-assisted development
-
-Agentic AI concepts
-
-skill progression
-
-Java             ███████████████░░░
-Python           ███████████░░░░░░░
-SQL              █████████████░░░░░
-Web Development  ████████████░░░░░░
-AI / ML          ██████░░░░░░░░░░░░
-
-The levels aren't serious. They're just a nicer way of saying "still learning."
-
-05 / github
 
 <div align="center">
 
@@ -113,20 +67,6 @@ The levels aren't serious. They're just a nicer way of saying "still learning."
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshayaM27&bg_color=fff9fc&color=725c6b&line=c48eaf&point=8c6380&area=true&hide_border=true&custom_title=GitHub%20Activity" width="95%"/>
 
 </div>
-
-07 / outside the code
-
-A few things I like about building software:
-
-understanding how things work instead of only making them work
-
-turning small ideas into actual projects
-
-experimenting with new tools
-
-cleaning up code after I realise what I was doing six months ago
-
-learning AI without pretending I already know everything about it
 
 08 / find me
 
