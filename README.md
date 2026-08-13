@@ -1,130 +1,151 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e7,50:e8d5ff,100:d8f3ff&height=200&section=header&text=Hi,%20I'm%20Akshaya&fontSize=40&fontColor=6b4c7a&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-### Software Developer, exploring AI & Machine Learning
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C084B8&center=true&vCenter=true&width=550&lines=Building+things+with+code;Learning+AI+%26+ML+one+project+at+a+time;Turning+ideas+into+working+software" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7DCEB,50:E9DDF5,100:DDEAF7&height=170&section=header&text=AKSHAYA%20M&fontSize=44&fontColor=5D4A5F&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/AkshayaM27?style=for-the-badge&color=f4b6d7&labelColor=2b2230&logo=github)](https://github.com/AkshayaM27)
-[![Profile Views](https://komarev.com/ghpvc/?username=AkshayaM27&style=for-the-badge&color=e8a8c7&label=PROFILE+VIEWS)](https://github.com/AkshayaM27)
+software developer · exploring AI / ML
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=9A6F8F&center=true&vCenter=true&width=620&lines=building+with+Java+%26+Python;learning+AI+one+project+at+a+time;currently+figuring+out+how+everything+works" />
+
+<br>
+
+
 
 </div>
 
----
+01 / about
 
-## About Me
+I'm Akshaya, a Computer Science graduate and software developer working mainly with Java, Python, SQL and web technologies.
 
-I'm a software developer working mainly with Java, Python, SQL, and web technologies. Lately I've been spending most of my learning time on AI and machine learning — trying to understand not just how to use these tools, but how to build with them.
+Recently, I've been spending more time exploring AI, machine learning, data and AI-assisted development. I learn best by building things and figuring them out as I go.
 
-- 🔧 Comfortable with **Java, Python, SQL** and core web technologies
-- 🤖 Learning **AI/ML fundamentals** and how to apply them in real projects
-- 🛠️ Prefer learning by shipping small, working things over just reading docs
-- 📚 Currently deepening my skills in **AI-assisted and full-stack development**
+Currently working through the usual cycle:
 
-I don't have this all figured out — still early in the AI/ML learning curve — but I like documenting the journey through the projects below.
+learn → build → break something → debug → repeat
 
----
+02 / stack
 
-## Tech Stack
+Languages
 
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=java,python,js,html,css" /></p>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
 
-**Web & Frameworks**
-<p><img src="https://skillicons.dev/icons?i=angular,nodejs,express,jsp" /></p>
+Web
 
-**Database & Tools**
-<p><img src="https://skillicons.dev/icons?i=oracle,mongodb,git,github,vscode,eclipse" /></p>
+<img src="https://skillicons.dev/icons?i=angular,nodejs,express" />
 
-**AI / Data**
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-d8b4e8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Analysis-b8d8f0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python%20for%20AI-c9b6e4?style=for-the-badge" />
-</p>
+Database
 
----
+<img src="https://skillicons.dev/icons?i=oracle,mongodb" />
 
-## Featured Projects
+Tools
 
-### 🚗 AutoCarePro — Vehicle Service Management System
-A vehicle service management application for tracking service records, customers, and appointments.
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
 
-`Java` `JSP` `Servlets` `JDBC` `Oracle`
+03 / selected work
 
-### 🧹 AI-Powered Data Cleaning Assistant
-A Python tool that flags common data-quality issues in a dataset before analysis — missing values, outliers, wrong data types, duplicates, and inconsistencies.
+AutoCarePro
 
-`Python` `Pandas` `Data Cleaning`
+A vehicle service management application built with Java, JSP, Servlets, JDBC and Oracle.
 
-*More projects in progress — check my pinned repos for the latest.*
+Java · JSP · Servlets · JDBC · Oracle
 
----
+AI-Powered Data Cleaning Assistant
 
-## GitHub Stats
+A Python project for detecting common data-quality issues before a dataset is used for analysis or modelling.
+
+Currently focused on:
+
+missing values · duplicates · outliers · data types · data consistency
+
+Python · Pandas · Data Processing · AI
+
+04 / current quest
+
+AI / Machine Learning
+
+Currently exploring:
+
+Machine learning fundamentals
+
+Python for data and automation
+
+Data cleaning and preprocessing
+
+AI-powered applications
+
+AI-assisted development
+
+Agentic AI concepts
+
+skill progression
+
+Java             ███████████████░░░
+Python           ███████████░░░░░░░
+SQL              █████████████░░░░░
+Web Development  ████████████░░░░░░
+AI / ML          ██████░░░░░░░░░░░░
+
+The levels aren't serious. They're just a nicer way of saying "still learning."
+
+05 / github
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkshayaM27&show_icons=true&theme=rose_pine&hide_border=true&border_radius=15" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayaM27&layout=compact&theme=rose_pine&hide_border=true&border_radius=15" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AkshayaM27&show_icons=true&hide_border=true&bg_color=FFF9FC&title_color=8C6380&text_color=625A60&icon_color=C48EAF&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayaM27&layout=compact&hide_border=true&bg_color=FFF9FC&title_color=8C6380&text_color=625A60" height="170"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AkshayaM27&theme=rose_pine&hide_border=true&border_radius=15" />
+<img src="https://streak-stats.demolab.com/?user=AkshayaM27&theme=default&hide_border=true&background=FFF9FC&ring=C48EAF&fire=C48EAF&currStreakLabel=8C6380&sideLabels=8C6380&dates=8A7B84" width="75%"/>
 
 </div>
 
-### Activity Graph
+06 / activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshayaM27&theme=react-dark&hide_border=true&area=true&bg_color=2b2230&color=f4b6d7&line=e8a8c7&point=ffffff" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshayaM27&bg_color=fff9fc&color=725c6b&line=c48eaf&point=8c6380&area=true&hide_border=true&custom_title=GitHub%20Activity" width="95%"/>
 
 </div>
 
-### Achievements
+07 / outside the code
+
+A few things I like about building software:
+
+understanding how things work instead of only making them work
+
+turning small ideas into actual projects
+
+experimenting with new tools
+
+cleaning up code after I realise what I was doing six months ago
+
+learning AI without pretending I already know everything about it
+
+08 / find me
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AkshayaM27&theme=gruvbox&no-frame=true&margin-w=10&row=1&column=6" />
+
 
 </div>
 
----
-
-## Currently Learning
-
-```
-Machine Learning fundamentals
-Python for data & automation
-Data science basics
-Full-stack development
-AI-assisted development workflows
-```
-
----
-
-## Let's Connect
+<br>
 
 <div align="center">
 
-<a href="https://github.com/AkshayaM27">
-<img src="https://img.shields.io/badge/GitHub-AkshayaM27-2b2230?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+currently learning · currently building · still curious
 
 <br><br>
 
-Open to learning, collaborating, and building things together.
+♡
 
 </div>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d8f3ff,50:e8d5ff,100:ffd6e7&height=110&section=footer"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DDEAF7,50:E9DDF5,100:F7DCEB&height=100&section=footer" width="100%"/>
