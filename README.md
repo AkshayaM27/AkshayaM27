@@ -1,243 +1,143 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e7,50:e8d5ff,100:d8f3ff&height=220&section=header&text=Hi%20I'm%20Akshaya%20🎀&fontSize=45&fontColor=6b4c7a&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-### 👩🏻‍💻 Software Developer • 🤖 AI Enthusiast • 🎀 Girl Who Codes
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C084B8&center=true&vCenter=true&width=600&lines=Building+things+with+code+%E2%9C%A8;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Learning+something+new+every+day+%F0%9F%8C%B8;Turning+ideas+into+projects+%F0%9F%92%BB" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F8EAF2&height=150&section=header&text=Akshaya%20M&fontSize=48&fontColor=5B465A&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/AkshayaM27?style=for-the-badge\&color=f4b6d7\&labelColor=2b2230\&logo=github)](https://github.com/AkshayaM27)
-[![Profile Views](https://komarev.com/ghpvc/?username=AkshayaM27\&style=for-the-badge\&color=e8a8c7\&label=PROFILE+VIEWS)](https://github.com/AkshayaM27)
+### hi, i'm akshaya 👋🏻
+
+**software developer · AI enthusiast · lifelong learner**
+
+<br>
+
+<a href="https://github.com/AkshayaM27">
+<img src="https://img.shields.io/badge/github-AkshayaM27-5B465A?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🎀 About Me
+## a little about me
 
-```text
-👩🏻‍💻 Software Developer
-🤖 Exploring Artificial Intelligence & Machine Learning
-💻 Love building practical applications
-🌸 Currently learning and experimenting with new technologies
-✨ Turning coffee ☕ into code
-🎯 Always working on becoming a better developer
-```
+I'm a Computer Science graduate currently working as a **Graduate Engineer Trainee**.
 
-* 🌷 Working with **Java, Python, SQL and Web Technologies**
-* 🤖 Interested in **AI, Machine Learning and AI-powered applications**
-* 💻 Building projects that solve real-world problems
-* 🧠 Exploring modern development tools and AI coding assistants
-* 🌱 Currently expanding my skills in **AI & Full-Stack Development**
-* 🎀 Believer in *learning by building*
+I enjoy building things, figuring out why they don't work, and then eventually figuring out why they *do*.
+
+Recently, I've been spending more time exploring **AI, data, and AI-assisted development**, while continuing to work with Java and web technologies.
+
+Currently somewhere between:
+
+`learning → building → debugging → repeat`
 
 ---
 
-## 🤖 My AI Corner
+## what i work with
 
-<div align="center">
+**Languages**
 
-### `AI × Code × Creativity`
+`Java` `Python` `JavaScript` `SQL`
 
-</div>
+**Web**
 
-I'm especially interested in using AI to make software more intelligent, useful and easier to work with.
+`HTML` `CSS` `JSP` `Servlets` `Angular` `Node.js`
 
-```text
-🤖 AI Applications
-        ↓
-🧠 Machine Learning
-        ↓
-🐍 Python
-        ↓
-📊 Data & Automation
-        ↓
-🚀 Real-World Projects
-```
+**Database**
 
-### 🌸 Currently Exploring
+`Oracle` `MongoDB`
 
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 🐍 Python for AI & Data
-* 📊 Data Cleaning & Analysis
-* ✨ AI-powered developer tools
-* 🔗 APIs & AI integrations
-* 🚀 Agentic AI concepts
+**Tools**
+
+`Git` `GitHub` `VS Code` `Eclipse` `Apache Tomcat`
+
+**Currently exploring**
+
+`Artificial Intelligence` `Machine Learning` `Data Processing` `AI-powered applications`
 
 ---
 
-## 💻 Tech Stack
-
-### 🎀 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
-</p>
-
-### 🌐 Web & Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=angular,nodejs,express,jsp" />
-</p>
-
-### 🗄️ Database & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=oracle,mongodb,git,github,vscode,eclipse" />
-</p>
-
-### 🤖 AI / Data
-
-<p>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-🤖-f3b6d2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Machine%20Learning-🧠-d8b4e8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Analysis-📊-b8d8f0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python%20AI-🐍-c9b6e4?style=for-the-badge" />
-
-</p>
-
----
-
-## 🌷 Featured Projects
+## things i've been building
 
 ### 🚗 AutoCarePro
 
-**Vehicle Service Management System**
+A vehicle service management application built with **Java, JSP, Servlets, JDBC and Oracle**.
 
-> A vehicle service management application built using Java, JSP, Servlets, JDBC and Oracle.
+Working on things like authentication, vehicle management, service records and dashboard functionality.
 
-`Java` `JSP` `Servlets` `JDBC` `Oracle`
+`Java` · `JSP` · `Servlets` · `JDBC` · `Oracle`
 
 ---
 
 ### 🤖 AI-Powered Data Cleaning Assistant
 
-**Making messy datasets analysis-ready ✨**
+A Python project focused on making messy datasets easier to work with.
 
-A Python-based tool designed to automatically identify common data-quality problems such as:
+The idea is to automatically identify common data-quality problems such as:
 
-* Missing values
-* Outliers
-* Incorrect data types
-* Duplicate records
-* Data inconsistencies
+* missing values
+* duplicates
+* outliers
+* incorrect data types
 
-`Python` `Pandas` `AI` `Data Cleaning`
+and provide sensible ways to clean them.
+
+`Python` · `Pandas` · `Data Processing` · `AI`
 
 ---
 
-### 💗 More Projects Coming Soon...
+## currently learning
 
 ```text
-✨ idea → 💻 code → 🐛 debug → ☕ coffee → 🚀 deploy
+AI / Machine Learning
+        ↓
+Python for Data & AI
+        ↓
+AI-powered applications
+        ↓
+better software development workflows
 ```
 
+I'm still learning, so this section will probably keep changing.
+
 ---
 
-## 📊 GitHub Stats
+## github
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkshayaM27&show_icons=true&theme=rose_pine&hide_border=true&border_radius=15" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AkshayaM27&show_icons=true&hide_border=true&bg_color=FFF8FC&title_color=8B5C7A&text_color=625A60&icon_color=C98FB3&rank_icon=github" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayaM27&layout=compact&theme=rose_pine&hide_border=true&border_radius=15" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayaM27&layout=compact&hide_border=true&bg_color=FFF8FC&title_color=8B5C7A&text_color=625A60" height="165"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## a few things you'll find here
 
-<div align="center">
+🌷 Java & web development projects
+🤖 AI / data experiments
+📚 things I'm learning
+🛠️ projects I'm still figuring out
 
-<img src="https://streak-stats.demolab.com?user=AkshayaM27&theme=rose_pine&hide_border=true&border_radius=15" />
+Some repositories are polished.
 
-</div>
+Some are experiments.
 
----
+Some are probably going to be refactored five times.
 
-## 🐍 My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="90%"/>
-
-</div>
+That's basically GitHub.
 
 ---
 
-## 🌸 Currently Learning
-
-```text
-┌───────────────────────────────────────┐
-│                                       │
-│  🤖 Artificial Intelligence           │
-│  🧠 Machine Learning                  │
-│  🐍 Python                            │
-│  📊 Data Science                      │
-│  🌐 Full-Stack Development             │
-│  ✨ AI-Powered Applications             │
-│  🚀 Agentic AI                         │
-│                                       │
-└───────────────────────────────────────┘
-```
-
----
-
-## 🎀 Developer Mindset
-
 <div align="center">
 
-> *"She believed she could code it, so she did."* 💗
+### thanks for stopping by ♡
+
+`currently learning something new`
 
 <br>
 
-**Code. Learn. Build. Break. Fix. Repeat.** ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8EAF2&height=90&section=footer"/>
 
 </div>
-
----
-
-## 💌 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/AkshayaM27">
-<img src="https://img.shields.io/badge/GitHub-AkshayaM27-2b2230?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-🌷 **Always open to learning, collaborating and building cool things!**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d8f3ff,50:e8d5ff,100:ffd6e7&height=120&section=footer"/>
-
-### 🎀 Thanks for visiting my little corner of GitHub! 🎀
-
-</div>
-
-
-<!--
-**AkshayaM27/AkshayaM27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
